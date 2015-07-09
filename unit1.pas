@@ -35,6 +35,10 @@ procedure TForm1.FormCreate(Sender: TObject);
 begin
   label1.caption:=Application.GetOptionValue('f','file');
   label1.caption:=Application.GetOptionValue('f','file');
+  label1.caption:=Application.GetOptionValue('f','file');
+  label1.caption:=Application.GetOptionValue('f','file');
+  label1.caption:=Application.GetOptionValue('f','file');
+  label1.caption:=Application.GetOptionValue('f','file');
 end;
 
 procedure TForm1.Button1Click(Sender: TObject);
